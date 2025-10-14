@@ -74,4 +74,4 @@ dark.css
 
 # 项目说明
 
-本仓库进行了一些简单的整理并通过[geneasy](https://github.com/geneasy/geneasy)文档生成工具与Workflows实现了无服务器的部署, 只需修改links.yml添加链接即可自动生成html文档.
+本仓库进行了一些简单的整理并通过[geneasy](https://github.com/geneasy/geneasy)文档生成工具与Workflows实现了无服务器的部署, 只需修改links.yml添加链接即可自动生成html文档.仅限于本人使用.
