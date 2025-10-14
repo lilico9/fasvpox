@@ -50,66 +50,11 @@ categories:
         url: mailto:https://www.apache.org
         description: 点击即可通过邮件联系我
 
-  - category: Proxy
-    hide_menu: true
-    icon: fa-solid fa-star
-    links:
-      - title: Cloudflare
-        logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
-        url: https://proxy.imkk.uk/
-        description: 输入目标网址即可访问, 对Wikipedia等站有优化
-      - title: Vercel
-        logo: https://cdn.imkk.uk/icon/nav/vercel.ico
-        url: https://www.proxies.dynv6.net/URL
-        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
-      - title: GlaDOS
-        logo: https://cdn.imkk.uk/icon/nav/glados.ico
-        url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
-        description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
 
-  - category: 个人站点
-    icon: fa-solid fa-laptop
-    links:
-      - title: NextChat
-        logo: https://cdn.imkk.uk/icon/nav/nextchat.ico
-        url: https://chat.imkk.uk/
-        description: ChatGPT网页应用, 部署于Vercel
-      - title: BingAI
-        logo: https://cdn.imkk.uk/icon/nav/bingai.ico
-        url: https://bingai.imkk.uk/
-        description: NewBing镜像站, 部署于Cloudflare Workers
-      - title: OneAPI
-        logo: https://cdn.imkk.uk/icon/nav/oneapi.ico
-        url: https://oapi.imkk.uk/
-        description: ChatGPT API分发站, 有需要的可发邮件申请Key
-      - title: Alist
-        logo: https://cdn.imkk.uk/icon/nav/alist.svg
-        url: https://alist.imkk.uk/
-        description: 个人影音库, 部署于本地, Cloudflare代理
-      - title: Reader
-        logo: https://cdn.imkk.uk/icon/nav/reader.ico
-        url: https://yuedu.imkk.uk/
-        description: 开源小说/网文阅读, 部署于本地, Cloudflare代理
-      - title: FileBox
-        logo: https://cdn.imkk.uk/icon/nav/filebox.png
-        url: https://box.imkk.uk/
-        description: 匿名口令分享文本、文件, 部署于本地, Cloudflare代理
 
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
     links:
-      - title: Z-library
-        logo: https://crowded-coffee-wombat.faviconkit.com/singlelogin.re
-        url: https://singlelogin.re/
-        description: Zlibrary 影子图书馆起始页面
-      - title: Library Genesis
-        logo: https://crowded-coffee-wombat.faviconkit.com/libgen.li/32
-        url: https://libgen.li/
-        description: Library Genesis 创世纪图书馆
-      - title: Wikipedia
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.wikipedia.org
-        url: https://wikipedia.imkk.uk/
-        description: 维基百科镜像站
       - title: 鸠摩搜索
         logo: https://crowded-coffee-wombat.faviconkit.com/www.jiumodiary.com
         url: https://www.jiumodiary.com/
@@ -118,10 +63,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/xmsoushu.com
         url: https://xmsoushu.com/
         description: 一站式读书学习导航站
-      - title: Sci-Hub
-        logo: https://crowded-coffee-wombat.faviconkit.com/sci-hub.ru/pictures/ravenround_hs.gif
-        url: https://sci-hub.ru/
-        description: 书籍论文下载 将知识带给每个人
       - title: arXiv
         logo: https://crowded-coffee-wombat.faviconkit.com/arxiv.org
         url: https://arxiv.org/
@@ -198,14 +139,6 @@ categories:
         logo: https://crowded-coffee-wombat.faviconkit.com/yunso.net
         url: https://yunso.net/
         description: 网盘搜索引擎
-      - title: 奈斯搜索
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.niceso.fun
-        url: https://www.niceso.fun/
-        description: 阿里云盘资源搜索网站
-      - title: BT之家
-        logo: https://crowded-coffee-wombat.faviconkit.com/www.btbtt18.com
-        url: https://www.btbtt18.com/
-        description: BT种子站, 资源丰富, 无法访问可更改URL中数字18为20以内其余数字尝试
       - title: MyFreeMP3
         logo: https://crowded-coffee-wombat.faviconkit.com/tools.liumingye.cn/music
         url: https://tools.liumingye.cn/music/#/
@@ -230,30 +163,6 @@ categories:
         logo: https://besticon-demo.herokuapp.com/icon?url=lab.magiconch.com&size=16..32..120
         url: https://lab.magiconch.com/
         description: 有很多有趣的项目, 梗图生成器、在线鉴黄工具等
-      - title: Life Restart
-        logo: https://besticon-demo.herokuapp.com/icon?url=liferestart.syaro.io/public&size=16..32..120
-        url: https://liferestart.syaro.io/public/
-        description: 风靡一时的人生重开模拟器
-      - title: 扫雷
-        logo: https://cdn.imkk.uk/icon/nav/saolei.ico
-        url: https://saolei.imkk.uk/
-        description: 扫雷网页版, 部署于GitHub Pages
-      - title: 鱼了个鱼
-        logo: https://besticon-demo.herokuapp.com/icon?url=ylgy.imkk.uk&size=16..32..120
-        url: https://ylgy.imkk.uk/
-        description: 低配版羊了个羊系列小游戏, 部署于GitHub Pages
-      - title: 吃掉小鹿乃
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
-        url: https://madisonwirtanen.github.io/EatKano/
-        description: 新概念音游, 部署于GitHub Pages
-      - title: 图种制作
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
-        url: https://madisonwirtanen.github.io/js-seed-map/
-        description: 图种制作工具, 将压缩包与图片合成一张新图片, 部署于GitHub Pages
-      - title: 114514论证器
-        logo: https://cdn.jsdelivr.net/gh/MadisonWirtanen/image-hosting-web-site@main/link.png
-        url: https://madisonwirtanen.github.io/homo/
-        description: 一个将任意数字分解成 114514 构成的公式的工具, 部署于GitHub Pages
       - title: FakeUpdate
         logo: https://besticon-demo.herokuapp.com/icon?url=fakeupdate.net&size=16..32..120
         url: https://fakeupdate.net/
