@@ -58,7 +58,7 @@ categories:
         logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
         url: https://proxy.imkk.uk/
         description: 输入目标网址即可访问, 对Wikipedia等站有优化
-      - title: Vercel代理
+      - title: Vercel
         logo: https://cdn.imkk.uk/icon/nav/vercel.ico
         url: https://www.proxies.dynv6.net/URL
         description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
