@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./favicon.ico">
 <p>一个简单美观的个人网址导航主页</p>
 <p>依托GitHubPages和Workflows无服务器部署</p>
 <p>Powered by 
