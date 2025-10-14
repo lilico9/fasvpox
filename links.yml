@@ -54,7 +54,7 @@ categories:
     hide_menu: true
     icon: fa-solid fa-star
     links:
-      - title: Cloudflare代理
+      - title: Cloudflare代
         logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
         url: https://proxy.imkk.uk/
         description: 输入目标网址即可访问, 对Wikipedia等站有优化
