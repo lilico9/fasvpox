@@ -1,6 +1,5 @@
 <div align="center">
 <img src="./favicon.ico">
-<h1>OneNav</h1>
 <p>一个简单美观的个人网址导航主页</p>
 <p>依托GitHubPages和Workflows无服务器部署</p>
 <p>Powered by 
@@ -76,5 +75,4 @@ dark.css
 
 # 项目说明
 
-源码来自于已归档的[OneNav](https://github.com/imsyy/OneNav)
 本仓库进行了一些简单的整理并通过[geneasy](https://github.com/geneasy/geneasy)文档生成工具与Workflows实现了无服务器的部署, 只需修改links.yml添加链接即可自动生成html文档.
