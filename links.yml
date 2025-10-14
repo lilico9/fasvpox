@@ -3,7 +3,7 @@
 ## 页面配置
 ################
 # 作者名称
-user_name: KK
+user_name: Me
 # 网站名称
 site_name: OneNav
 # 网站Favicon
@@ -21,11 +21,11 @@ keywords: 导航页, 导航, OneNav, GenEasy, Github, Github Pages
 # 网站描述
 description: 个人网址集
 # 个人主页
-home_url: https://www.imkk.uk/
+home_url: https://www.apache.org
 # 个人邮箱
-email: Nav@imkk.uk
+email: https://www.apache.org
 # GitHub链接
-github_url: https://github.com/MadisonWirtanen
+github_url: https://github.com/lilico9
 ################
 ## 网址链接
 ################
@@ -35,19 +35,19 @@ categories:
     links:
       - title: 主页
         logo: https://cdn.imkk.uk/icon/svg/Home.svg
-        url: https://www.imkk.uk/
+        url: https://www.apache.org/
         description: 我的主页, 欢迎访问
       - title: 博客
         logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
+        url: https://www.apache.org/
         description: 我的博客, 欢迎留言
       - title: 监测站
         logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
-        url: https://monitor.imkk.uk/
+        url: https://www.apache.org/
         description: 监测网站运行状态
       - title: Email
         logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
-        url: mailto:nav@imkk.uk
+        url: mailto:https://www.apache.org
         description: 点击即可通过邮件联系我
 
   - category: Proxy
